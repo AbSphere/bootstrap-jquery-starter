@@ -1,5 +1,7 @@
 ![Licence MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
+
 # QuickTemplate
 
 Un modèle de démarrage léger et prêt à l'emploi, utilisant **Bootstrap** et **jQuery** via CDN. Idéal pour les développeurs souhaitant lancer rapidement des projets web.
