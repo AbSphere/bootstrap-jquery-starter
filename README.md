@@ -1,11 +1,14 @@
 # QuickTemplate
 
 ## 🚀 Statut du projet
+Le projet est actuellement stable et prêt à être utilisé pour vos développements web.
 ![Build Status](https://img.shields.io/github/actions/workflow/status/AbSphere/bootstrap-jquery-starter/build.yml)
 ![Licence MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 
 ## 💻 Technologies utilisées
+Ce modèle repose sur des technologies modernes et éprouvées pour assurer rapidité et flexibilité.
+
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
@@ -18,12 +21,18 @@
 ![GitHub Issues](https://img.shields.io/github/issues/absphere/bootstrap-jquery-starter)
 ![GitHub Contributors](https://img.shields.io/github/contributors/absphere/bootstrap-jquery-starter)
 
+
+
 ## 🌐 Compatibilité
+Ce modèle est conçu pour fonctionner parfaitement sur les navigateurs modernes, garantissant une expérience utilisateur cohérente.
+
 ![Browsers](https://img.shields.io/badge/Compatible-Chrome%2C%20Firefox%2C%20Safari-lightgrey)
 
 Un modèle de démarrage léger et prêt à l'emploi, utilisant **Bootstrap** et **jQuery** via CDN. Idéal pour les développeurs souhaitant lancer rapidement des projets web.
 
 ## 🚀 Fonctionnalités
+Pour simplifier le développement, QuickTemplate intègre plusieurs fonctionnalités prêtes à l'emploi.
+
 - **Bootstrap 5** : Framework CSS moderne et réactif.
 - **jQuery** : Manipulation DOM simplifiée.
 - **CDN inclus** : Pas besoin d'installation locale.
@@ -31,6 +40,8 @@ Un modèle de démarrage léger et prêt à l'emploi, utilisant **Bootstrap** et
 - **Exemples intégrés** : Navbar, carrousels, et sections de contenu.
 
 ## 📂 Structure du projet
+La structure suivante est conçue pour organiser vos fichiers et faciliter les ajouts ou modifications futurs.
+
 ```
 bootstrap-jquery-starter/
 ├── index.html       # Page d'accueil
@@ -42,6 +53,7 @@ bootstrap-jquery-starter/
 ```
 
 ## 📖 Comment démarrer
+Voici les étapes pour configurer et personnaliser rapidement votre projet.
 
 1. **Clonez le dépôt** : Téléchargez le projet sur votre machine locale en utilisant la commande suivante :  
    ```bash
@@ -74,6 +86,7 @@ Ce projet est sous licence [MIT](LICENSE). Libre à vous de l'utiliser et de le 
 
 
 ## 🔗 Liens utiles
+Pour approfondir vos connaissances ou intégrer des outils supplémentaires dans votre projet, consultez ces ressources essentielles.
 
 ### **Documentation et Frameworks**
 - [Documentation Bootstrap](https://getbootstrap.com/docs/5.3/) : Guide officiel pour utiliser et personnaliser Bootstrap.
