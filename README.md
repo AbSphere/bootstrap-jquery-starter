@@ -1,8 +1,28 @@
-![Licence MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
+# QuickTemplate
 
 # QuickTemplate
+
+![Licence MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery)
+![Node.js](https://img.shields.io/badge/Node.js->=14.0.0-green?logo=node.js)
+
+Un template moderne et optimisé basé sur Bootstrap et jQuery. Facile à personnaliser et à intégrer dans vos projets web.
+
+---
+
+## Fonctionnalités
+- Intégration directe via CDN (Bootstrap et jQuery).
+- Structure optimisée pour les performances.
+- Compatible avec tous les navigateurs modernes.
+
+---
+
+## Statistiques GitHub
+![GitHub Stars](https://img.shields.io/github/stars/<NomUtilisateur>/<NomDepot>.svg)
+![GitHub Forks](https://img.shields.io/github/forks/<NomUtilisateur>/<NomDepot>.svg)
+![GitHub Issues](https://img.shields.io/github/issues/<NomUtilisateur>/<NomDepot>)
 
 Un modèle de démarrage léger et prêt à l'emploi, utilisant **Bootstrap** et **jQuery** via CDN. Idéal pour les développeurs souhaitant lancer rapidement des projets web.
 
