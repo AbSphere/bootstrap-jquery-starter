@@ -111,8 +111,19 @@ Voici les étapes pour configurer et personnaliser rapidement votre projet.
 
 Une fois que vous avez exploré et utilisé le projet, n'hésitez pas à contribuer pour l'améliorer encore davantage.
 
-## 🌟 Contribution
-Les contributions sont les bienvenues ! Consultez le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails.
+## 🤝 Contribution
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet, suivez ces étapes :
+1. Forkez le dépôt.
+2. Créez une branche pour vos modifications (`git checkout -b feature/nom-fonctionnalite`).
+3. Faites vos changements et testez-les.
+4. Soumettez une pull request.
+
+Consultez le fichier `CONTRIBUTING.md` pour plus de détails.
+
+## 🏆 Remerciements
+- **Bootstrap** pour son framework CSS.
+- **jQuery** pour la manipulation DOM simplifiée.
+- Les contributeurs GitHub pour leurs idées et corrections.
 
 ## 📄 Licence
 Ce projet est sous licence [MIT](LICENSE). Libre à vous de l'utiliser et de le modifier !
