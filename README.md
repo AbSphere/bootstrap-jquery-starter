@@ -1,22 +1,26 @@
 # QuickTemplate
 
+## 🚀 Statut du projet
+![Build Status](https://img.shields.io/github/actions/workflow/status/AbSphere/bootstrap-jquery-starter/build.yml)
 ![Licence MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery)
-![Node.js](https://img.shields.io/badge/Node.js->=14.0.0-green?logo=node.js)
+
+## 💻 Technologies utilisées
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery)
+![Node.js](https://img.shields.io/badge/Node.js->=14.0.0-green?logo=node.js)
 
-Un template moderne et optimisé basé sur Bootstrap et jQuery. Facile à personnaliser et à intégrer dans vos projets web.
+## 📊 Statistiques GitHub
+![GitHub Stars](https://img.shields.io/github/stars/AbSphere/bootstrap-jquery-starter.svg)
+![GitHub Forks](https://img.shields.io/github/forks/AbSphere/bootstrap-jquery-starter.svg)
+![GitHub Issues](https://img.shields.io/github/issues/AbSphere/bootstrap-jquery-starter)
+![GitHub Contributors](https://img.shields.io/github/contributors/AbSphere/bootstrap-jquery-starter)
 
----
-
-## Statistiques GitHub
-![GitHub Stars](https://img.shields.io/github/stars/WebLocalis/bootstrap-jquery-starter.svg)
-![GitHub Forks](https://img.shields.io/github/forks/WebLocalis/bootstrap-jquery-starter.svg)
-![GitHub Issues](https://img.shields.io/github/issues/WebLocalis/bootstrap-jquery-starter)
+## 🌐 Compatibilité
+![Browsers](https://img.shields.io/badge/Compatible-Chrome%2C%20Firefox%2C%20Safari-lightgrey)
 
 Un modèle de démarrage léger et prêt à l'emploi, utilisant **Bootstrap** et **jQuery** via CDN. Idéal pour les développeurs souhaitant lancer rapidement des projets web.
 
