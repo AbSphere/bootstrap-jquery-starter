@@ -9,7 +9,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)](https://getbootstrap.com/)
 ![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery)
 ![Node.js](https://img.shields.io/badge/Node.js->=14.0.0-green?logo=node.js)
 
