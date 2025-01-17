@@ -16,7 +16,7 @@
 QuickTemplate est un modèle de démarrage rapide conçu pour les développeurs web. Basé sur Bootstrap 5 et jQuery, il fournit une structure simple et optimisée pour créer des projets modernes en quelques minutes.
 
 ## 📸 Aperçu
-![Aperçu QuickTemplate](assets/img/screenshot.png)
+![Aperçu QuickTemplate](assets/img/screenshot.webp)
 
 ## 🚀 Statut du projet
 Le projet est actuellement stable et prêt à être utilisé pour vos développements web.
