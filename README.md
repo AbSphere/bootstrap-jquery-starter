@@ -11,13 +11,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)](https://getbootstrap.com/)
 ![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery)
-![Node.js](https://img.shields.io/badge/Node.js->=14.0.0-green?logo=node.js)
 
 ## 📊 Statistiques GitHub
-![GitHub Stars](https://img.shields.io/github/stars/AbSphere/bootstrap-jquery-starter.svg)
-![GitHub Forks](https://img.shields.io/github/forks/AbSphere/bootstrap-jquery-starter.svg)
-![GitHub Issues](https://img.shields.io/github/issues/AbSphere/bootstrap-jquery-starter)
-![GitHub Contributors](https://img.shields.io/github/contributors/AbSphere/bootstrap-jquery-starter)
+![GitHub Stars](https://img.shields.io/github/stars/absphere/bootstrap-jquery-starter.svg)
+![GitHub Forks](https://img.shields.io/github/forks/absphere/bootstrap-jquery-starter.svg)
+![GitHub Issues](https://img.shields.io/github/issues/absphere/bootstrap-jquery-starter)
+![GitHub Contributors](https://img.shields.io/github/contributors/absphere/bootstrap-jquery-starter)
 
 ## 🌐 Compatibilité
 ![Browsers](https://img.shields.io/badge/Compatible-Chrome%2C%20Firefox%2C%20Safari-lightgrey)
