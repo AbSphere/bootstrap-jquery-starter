@@ -1,4 +1,4 @@
-# robots.txt pour Bootstrap & jQuery Starter Template
+# robots.txt pour QuickTemplate.
 # Ce fichier contrôle l'accès des robots d'exploration à votre site.
 # Optimisé pour garantir une indexation efficace tout en protégeant les ressources sensibles.
 

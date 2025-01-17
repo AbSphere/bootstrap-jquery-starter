@@ -1,5 +1,5 @@
 
-# Bootstrap & jQuery Starter Template
+# QuickTemplate
 
 Un modèle de démarrage léger et prêt à l'emploi, utilisant **Bootstrap** et **jQuery** via CDN. Idéal pour les développeurs souhaitant lancer rapidement des projets web.
 

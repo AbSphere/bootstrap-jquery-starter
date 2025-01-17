@@ -1,7 +1,7 @@
 
 # Guide de Contribution
 
-Merci de votre intérêt pour **Bootstrap & jQuery Starter Template** ! Nous accueillons chaleureusement vos contributions pour améliorer ce projet. Ce guide vous aidera à contribuer de manière efficace.
+Merci de votre intérêt pour **QuickTemplate** ! Nous accueillons chaleureusement vos contributions pour améliorer ce projet. Ce guide vous aidera à contribuer de manière efficace.
 
 ---
 
