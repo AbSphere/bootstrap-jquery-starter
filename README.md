@@ -22,12 +22,29 @@ bootstrap-jquery-starter/
 ```
 
 ## 📖 Comment démarrer
-1. Clonez le dépôt :
+
+1. **Clonez le dépôt** : Téléchargez le projet sur votre machine locale en utilisant la commande suivante :  
    ```bash
    git clone https://github.com/AbSphere/bootstrap-jquery-starter.git
    ```
-2. Ouvrez `index.html` dans votre navigateur.
-3. Personnalisez selon vos besoins.
+
+2. **Accédez au répertoire** :  
+   Naviguez dans le dossier du projet cloné :  
+   ```bash
+   cd bootstrap-jquery-starter
+   ```
+
+3. **Ouvrez la page principale** :  
+   Lancez le fichier `index.html` dans votre navigateur pour prévisualiser le modèle :  
+   - Double-cliquez sur `index.html` si vous utilisez un explorateur de fichiers.  
+   - Ou servez-vous d'un serveur local comme **Live Server** (VS Code) pour une meilleure expérience de développement.
+
+4. **Personnalisez le projet** :  
+   - Ajoutez vos propres styles dans `assets/css/`.
+   - Intégrez vos scripts dans `assets/js/`.
+   - Mettez à jour le contenu HTML dans `index.html`.
+
+
 
 ## 🌟 Contribution
 Les contributions sont les bienvenues ! Consultez le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails.
