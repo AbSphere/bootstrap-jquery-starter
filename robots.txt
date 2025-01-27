@@ -1,22 +1,16 @@
-# robots.txt pour QuickTemplate.
-# Ce fichier contrôle l'accès des robots d'exploration à votre site.
-# Optimisé pour garantir une indexation efficace tout en protégeant les ressources sensibles.
-
-# Autoriser tous les robots d'exploration pour le contenu principal
 User-agent: *
-Disallow: /private/           # Répertoire privé non indexé
-Disallow: /temp/              # Répertoire temporaire
-Disallow: /backup/            # Répertoire de sauvegarde
-Disallow: /scripts/           # Scripts sensibles non nécessaires pour l'indexation
-Disallow: /cgi-bin/           # Répertoire CGI par défaut (s'il existe)
-Disallow: /test/              # Zones de test ou en développement
-Disallow: /assets/js/         # Scripts JavaScript, souvent inutiles pour l'indexation
-Allow: /assets/css/           # Autoriser l'accès aux styles CSS publics
-
-# Empêcher l'indexation des paramètres d'URL
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+Disallow: /scripts/
+Disallow: /cgi-bin/
+Disallow: /test/
+Disallow: CONTRIBUTING.md
+Disallow: README.md
+Disallow: service-details.html
+Disallow: LICENSE
 Disallow: /*?*
 
-# Autoriser l'accès aux fichiers CSS, JS et images pour un rendu correct
 Allow: /*.css$
 Allow: /*.js$
 Allow: /*.png$
@@ -26,9 +20,5 @@ Allow: /*.gif$
 Allow: /*.svg$
 Allow: /*.webp$
 
-# Empêcher l'indexation des pages d'erreur
 Disallow: /404.html
 Disallow: /500.html
-
-# Référencer le sitemap pour une meilleure exploration
-Sitemap: https://www.votresite.com/sitemap.xml
